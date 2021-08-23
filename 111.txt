@@ -1,4 +1,41 @@
-﻿央视频道,#genre#
+,http://39.134.155.149/PLTV/88888888/224/3221225632/index.m3u8
+
+重庆新闻,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225745/index.m3u8
+
+重庆影视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225760/index.m3u8
+
+重庆都市,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225761/index.m3u8
+
+重庆时尚,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225762/index.m3u8
+
+重庆文体娱乐,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225759/index.m3u8
+
+重庆公共农村,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226361/index.m3u8
+
+重庆少儿,http://stream.guihet.com/t/youkulive.php?id=8108856
+
+重庆科教,http://stream.guihet.com/t/youkulive.php?id=8125100
+
+重庆生活资讯,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226359/index.m3u8
+
+重庆汽摩,http://39.135.138.8:6610/PLTV/88888888/224/3221225506/2/index.m3u8?fmt=ts2hls
+
+IPTV5＋,http://39.134.39.39/PLTV/88888888/224/3221226273/index.m3u8
+
+NewTV明星大片,http://223.110.243.152/ott.js.chinamobile.com/PLTV/3/224/3221227594/index.m3u8
+
+黑莓电影,http://otttv.bj.chinamobile.com/TVOD/88888888/224/3221225927/1.m3u8
+
+NewTV家庭剧场,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225677/index.m3u8
+
+NewTV农业致富,http://223.110.243.158/ott.js.chinamobile.com/PLTV/3/224/3221227588/index.m3u8
+
+CCTV1,http://111.26.225.22/PLTV/2/224/3221225640/index.m3u8
+
+CCTV2,http://117.169.120.140:8080/live/cctv-2/.m3u8
+
+CCTV3,http://117.169.120.140:8080/live/cctv-3/.m3u8
+央视频道,#genre#
 QQ群:664117428 ,http://112.50.243.8/PLTV/88888888/224/3221225829/1.m3u8
 CCTV-1 HD[1920*1080],http://112.50.243.8/PLTV/88888888/224/3221225829/1.m3u8
 CCTV-1 HD[1920*1080],http://112.50.243.8/PLTV/88888888/224/3221225922/1.m3u8
